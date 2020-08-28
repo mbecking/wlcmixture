@@ -19,6 +19,6 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-
+Welcome to the WLCmixture Package. This module is designed to create and calculate the binodal and spinodal of polyelectrolyte solutions
 
 :math:`\int x^2 dx`

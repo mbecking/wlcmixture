@@ -23,4 +23,4 @@ Welcome to the WLCmixture Package. This module is designed to create and calcula
 
 :math:`\int x^2 dx`
 
-:math: `\sum x^2`
+:math:`\sum x^2`

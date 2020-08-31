@@ -23,6 +23,7 @@ Welcome to the **WLCmixture Package**. This module is designed to create and cal
 polyelectrolyte solutions and polymer mixtures.
 
 This Package includes many useful abilities like:
+
 #. Fluctuation Calculations
 #. Solution Stability
 #. Free Energy Calculation

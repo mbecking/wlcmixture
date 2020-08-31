@@ -19,8 +19,17 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Welcome to the WLCmixture Package. This module is designed to create and calculate the binodal and spinodal of
+Welcome to the **WLCmixture Package**. This module is designed to create and calculate the binodal and spinodal of
 polyelectrolyte solutions and polymer mixtures.
+
+This Package includes many useful abilities like:
+#. Fluctuation Calculations
+#. Solution Stability
+#. Free Energy Calculation
+
+====================
+Math Section For Fun
+====================
 
 :math:`\int x^2 dx`
 

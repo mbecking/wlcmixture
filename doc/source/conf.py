@@ -30,7 +30,6 @@ author = 'Michael Beckinghausen'
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'nbsphinx',
     'sphinx.ext.doctest',
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
